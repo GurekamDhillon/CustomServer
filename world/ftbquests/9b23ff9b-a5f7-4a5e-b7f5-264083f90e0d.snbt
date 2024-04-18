@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "9b23ff9ba5f74a5eb7f5264083f90e0d"
+	name: "GurekaPerson#9b23ff9b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

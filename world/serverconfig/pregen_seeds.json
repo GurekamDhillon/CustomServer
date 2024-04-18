@@ -1,0 +1,38 @@
+{
+	"level_seeds": [
+		{
+			"dim": "aether:the_aether",
+			"seed": -4807606492837954376
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -4807606492837954376
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -4807606492837954376
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -4807606492837954376
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "aether:the_aether",
+			"seed": -4807606492837954376
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -4807606492837954376
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -4807606492837954376
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -4807606492837954376
+		}
+	]
+}

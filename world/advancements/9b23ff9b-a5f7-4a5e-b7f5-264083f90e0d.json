@@ -1,0 +1,341 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2024-04-14 14:54:49 -0700"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-04-14 14:54:49 -0700"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-04-14 14:54:49 -0700"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2024-04-14 14:54:49 -0700"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2024-04-14 14:54:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2024-04-16 02:26:23 -0700",
+      "minecraft:old_growth_pine_taiga": "2024-04-16 01:18:06 -0700",
+      "minecraft:taiga": "2024-04-16 01:19:40 -0700",
+      "minecraft:windswept_hills": "2024-04-17 00:19:39 -0700",
+      "minecraft:beach": "2024-04-14 15:40:02 -0700",
+      "minecraft:river": "2024-04-14 14:56:50 -0700",
+      "minecraft:stony_shore": "2024-04-14 14:56:09 -0700",
+      "minecraft:dripstone_caves": "2024-04-16 01:22:01 -0700",
+      "minecraft:grove": "2024-04-16 20:11:36 -0700",
+      "minecraft:swamp": "2024-04-17 00:20:23 -0700",
+      "minecraft:forest": "2024-04-14 14:54:50 -0700",
+      "minecraft:ocean": "2024-04-14 15:40:04 -0700",
+      "minecraft:frozen_peaks": "2024-04-16 20:12:07 -0700",
+      "minecraft:meadow": "2024-04-14 14:57:07 -0700",
+      "minecraft:plains": "2024-04-14 14:55:34 -0700"
+    },
+    "done": false
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2024-04-14 14:55:53 -0700"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-04-15 17:24:09 -0700"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2024-04-15 17:24:09 -0700"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-04-15 17:24:09 -0700"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-04-16 01:10:55 -0700"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-04-16 01:10:55 -0700"
+    },
+    "done": true
+  },
+  "inventorypets:root": {
+    "criteria": {
+      "auto": "2024-04-16 01:11:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-04-16 01:14:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-04-16 01:28:22 -0700",
+      "minecraft:spider": "2024-04-16 20:25:39 -0700",
+      "minecraft:creeper": "2024-04-16 01:27:51 -0700",
+      "minecraft:witch": "2024-04-16 19:57:10 -0700",
+      "minecraft:cave_spider": "2024-04-16 19:27:48 -0700",
+      "minecraft:zombie": "2024-04-16 01:14:01 -0700",
+      "minecraft:drowned": "2024-04-16 01:38:47 -0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-04-16 01:14:01 -0700"
+    },
+    "done": true
+  },
+  "quark:crawl_in_hollow_log": {
+    "criteria": {
+      "crawl_in_hollow_log": "2024-04-16 01:20:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-04-16 01:22:21 -0700"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2024-04-16 01:22:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-04-16 01:22:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-04-16 01:22:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2024-04-16 01:44:08 -0700",
+      "apple": "2024-04-16 01:28:09 -0700",
+      "melon_slice": "2024-04-16 02:21:38 -0700",
+      "enchanted_golden_apple": "2024-04-16 20:23:09 -0700"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-04-16 01:28:09 -0700"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_creeper": "2024-04-16 01:31:51 -0700",
+      "baby_skeleton": "2024-04-16 01:57:16 -0700"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-04-16 01:31:55 -0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2024-04-16 01:31:55 -0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-04-16 01:31:55 -0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-04-16 01:42:13 -0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2024-04-16 01:42:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-04-16 01:43:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-04-16 01:43:45 -0700"
+    },
+    "done": true
+  },
+  "silentgear:standard_tools": {
+    "criteria": {
+      "pickaxe": "2024-04-16 01:43:47 -0700",
+      "shovel": "2024-04-16 01:43:50 -0700",
+      "axe": "2024-04-16 02:19:20 -0700"
+    },
+    "done": true
+  },
+  "silentgear:swords": {
+    "criteria": {
+      "sword": "2024-04-16 01:43:52 -0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-04-16 01:44:58 -0700"
+    },
+    "done": true
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_skeleton": "2024-04-16 01:57:20 -0700"
+    },
+    "done": true
+  },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2024-04-16 01:58:17 -0700"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2024-04-16 02:07:08 -0700"
+    },
+    "done": true
+  },
+  "inventorypets:1": {
+    "criteria": {
+      "example": "2024-04-16 02:20:33 -0700"
+    },
+    "done": true
+  },
+  "inventorypets:cow": {
+    "criteria": {
+      "crafting_table": "2024-04-16 02:20:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-04-16 02:20:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-04-16 02:29:26 -0700"
+    },
+    "done": true
+  },
+  "botanypots:husbandry/get_hopper_pot": {
+    "criteria": {
+      "get_hopper_pot": "2024-04-16 02:39:52 -0700"
+    },
+    "done": true
+  },
+  "botanypots:husbandry/get_basic_pot": {
+    "criteria": {
+      "get_botany_pot": "2024-04-16 19:16:57 -0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-04-16 20:17:07 -0700"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-04-16 20:21:33 -0700"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-04-16 20:21:33 -0700"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-04-16 20:21:47 -0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2024-04-16 20:21:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-04-16 20:22:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-04-16 20:54:39 -0700"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2024-04-17 01:01:55 -0700"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-04-17 01:01:55 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

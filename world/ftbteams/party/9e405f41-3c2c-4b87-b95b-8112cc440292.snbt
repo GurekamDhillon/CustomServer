@@ -1,0 +1,35 @@
+{
+	id: "9e405f41-3c2c-4b87-b95b-8112cc440292"
+	type: "party"
+	owner: "9b23ff9b-a5f7-4a5e-b7f5-264083f90e0d"
+	ranks: {
+		9b23ff9b-a5f7-4a5e-b7f5-264083f90e0d: "owner"
+		8dcae730-e4aa-4c7d-8bec-0bff691e0bdc: "officer"
+	}
+	properties: {
+		"ftbteams:display_name": "GurekaPerson's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#CDFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1713260554137L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"GurekaPerson\"}]}" }
+		{ from: "9b23ff9b-a5f7-4a5e-b7f5-264083f90e0d", date: 1713260554153L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Fudhpinder\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1713260556709L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Fudhpinder\"}]}" }
+		{ from: "9b23ff9b-a5f7-4a5e-b7f5-264083f90e0d", date: 1713260563861L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"Fudhpinder\"}]}" }
+	]
+	extra: { }
+}

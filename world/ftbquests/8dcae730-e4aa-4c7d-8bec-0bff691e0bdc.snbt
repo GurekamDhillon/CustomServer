@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "8dcae730e4aa4c7d8bec0bff691e0bdc"
+	name: "Fudhpinder#8dcae730"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

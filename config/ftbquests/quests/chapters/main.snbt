@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "main"
+	group: ""
+	id: "0971002F0007CB9C"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Main"
+}

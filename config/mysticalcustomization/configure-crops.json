@@ -1,0 +1,21 @@
+{
+  mysticalagriculture:inferium: {
+    baseSecondaryChance: 0.05
+  },
+  mysticalagriculture:prudentium: {
+    baseSecondaryChance: 0.05
+  },
+  mysticalagriculture:tertium: {
+    baseSecondaryChance: 0.05
+  },
+  mysticalagriculture:imperium: {
+    baseSecondaryChance: 0.05
+  },
+  mysticalagriculture:supremium: {
+    baseSecondaryChance: 0.05
+  },
+  mysticalagriculture:insanium: {
+    baseSecondaryChance: 0.05
+  }
+}
+
